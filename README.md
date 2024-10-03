@@ -1,8 +1,9 @@
 # Retail Sales Analysis: Impact of External Factors
-Business Task: 
-How do various external factors influence the sales performance of a major retail chain?
+**Business Task:** How do various external factors influence the sales performance of a major retail chain?
 
 Presentation: [Retail Sales Analysis.pdf](https://github.com/DamianWong01/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Analysis.pdf)
+
+Notebook: [Walmart Sales Project.ipynb](https://github.com/DamianWong01/Retail-Sales-Analysis/blob/main/notebooks/Walmart%20Sales%20Project.ipynb)
 ## Dataset Description
 Walmart Sales dataset from [Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
 
